@@ -91,7 +91,7 @@
   forwards = true,
   skip_count = 0,
   skip_delay = 15,
-  speed = 70;
+  speed = 90;
   var wordflick = function () {
   setInterval(function () {
   if (forwards) {
