@@ -2321,10 +2321,10 @@ a {
   border-radius: 0.3rem;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .design span {
-  width: 75%;
+  width: 60%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .design span::after {
-  content: "75%";
+  content: "60%";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .development span {
   width: 50%;
@@ -2333,10 +2333,10 @@ a {
   content: "50%";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .uiux span {
-  width: 20%;
+  width: 45%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .uiux span::after {
-  content: "20%";
+  content: "45%";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .app span {
   width: 60%;
@@ -2351,10 +2351,10 @@ a {
   content: "80%";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .html span {
-  width: 80%;
+  width: 75%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .html span::after {
-  content: "80%";
+  content: "75%";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .css span {
   width: 65%;
@@ -2363,10 +2363,10 @@ a {
   content: "65%";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .javascript span {
-  width: 60%;
+  width: 55%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .javascript span::after {
-  content: "60%";
+  content: "55%";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .react span {
   width: 60%;
