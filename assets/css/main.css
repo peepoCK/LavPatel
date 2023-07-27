@@ -2321,22 +2321,22 @@ a {
   border-radius: 0.3rem;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .design span {
-  width: 60%;
+  width: 100%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .design span::after {
-  content: "60%";
+  content: "";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .development span {
-  width: 50%;
+  width: 100%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .development span::after {
-  content: "50%";
+  content: "";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .uiux span {
-  width: 45%;
+  width: 100%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .uiux span::after {
-  content: "45%";
+  content: "";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .app span {
   width: 60%;
@@ -2351,22 +2351,22 @@ a {
   content: "80%";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .html span {
-  width: 75%;
+  width: 100%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .html span::after {
-  content: "75%";
+  content: "";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .css span {
-  width: 65%;
+  width: 100%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .css span::after {
-  content: "65%";
+  content: "";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .javascript span {
-  width: 55%;
+  width: 100%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .javascript span::after {
-  content: "55%";
+  content: "";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .react span {
   width: 60%;

@@ -83,7 +83,7 @@
   /*===== Search bar js end ======*/
   
   /*=== Text Animation ===*/
-  var words = ['Entry Data Analyst', 'Entry Business Analyst', 'Entry Research Analyst' ],
+  var words = ['Data Analyst'],
   part,
   i = 0,
   offset = 0,
@@ -91,7 +91,7 @@
   forwards = true,
   skip_count = 0,
   skip_delay = 15,
-  speed = 90;
+  speed = 150;
   var wordflick = function () {
   setInterval(function () {
   if (forwards) {
